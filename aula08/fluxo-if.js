@@ -20,7 +20,7 @@ if (status == false){
 }
 */
 
-var linguagem = 'javascript';
+/* var linguagem = 'javascript';
 var aprend = ''
 if (linguagem == 'javascript') {
     aprend = 'estou aprendendo'
@@ -30,4 +30,5 @@ if (linguagem == 'javascript') {
     aprend = 'Vou aprender mais tarde'
 }
 console.log (aprend)
+ */
 
