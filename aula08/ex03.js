@@ -1,19 +1,19 @@
 //condicional - if else
 
-var n1 = 7;
-var n2 = 7.5;
-var n3 = 8.2;
-var n4 = 9.2;
+var n1 = 4;
+var n2 = 7;
+var n3 = 3;
+var n4 = 3;
 
 var media = (n1+n2+n3+n4)/4
-console.log ("amédia é....." + media)
+/* console.log ("A média final do Aluno é..... : " + media) */
 
 if (media >= 7) {
-    console.log (" O aluno foi aprovado")
+    console.log ("A média do Aluno foi " + media + " e ele foi aprovado")
 } 
  else if((media < 7)&& (media >= 4)) {
-    console.log ("O Aluno está em recuperação")
+    console.log ("A média do Aluno foi " + media + " e ele está em recuperação")
 
 } else {
-    console.log ()
+    console.log ("A média do Aluno foi " + media + " e ele foi reprovado")
 }
