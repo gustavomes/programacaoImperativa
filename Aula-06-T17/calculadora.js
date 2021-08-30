@@ -30,7 +30,7 @@ function calculaPorcentagem (a,b) {
 function geradorDePorcentagem (a,b) {
     return (a*100)/b
 }
-console.log ("-------------- Teste de Operações / Calculadora --------------")
+
 /*
 var resultadoAd = adicionar (10,5)
 console.log ("O resultado da soma é"+ " "+ resultadoAd)
