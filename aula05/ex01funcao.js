@@ -1,8 +1,8 @@
 // função simples
 
-function comprimentar (){
-    console.log ('olá mundo!');
-}
-comprimentar();
+    function comprimentar (){
+        console.log ('olá mundo!');
+    }
+    comprimentar();
 
 
