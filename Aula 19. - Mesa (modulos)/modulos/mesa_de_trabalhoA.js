@@ -1,0 +1,3 @@
+const pessoasmod = [{sexo: 'M', altura: 1.55}, {sexo: 'F', altura: 1.60}, {sexo: 'M', altura: 1.62}, {sexo: 'F', altura: 1.64}, {sexo: 'M', altura: 1.68}, {sexo: 'F', altura: 1.70}, {sexo: 'M', altura: 1.72}, {sexo: 'F', altura: 1.74}, {sexo: 'M', altura: 1.76}, {sexo: 'F', altura: 1.78}, {sexo: 'M', altura: 1.80}, {sexo: 'F', altura: 1.82}, {sexo: 'M', altura: 1.84}, {sexo: 'F', altura: 1.86}, {sexo: 'M', altura: 1.88}];
+
+module.exports = pessoasmod
